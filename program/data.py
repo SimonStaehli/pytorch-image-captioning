@@ -20,7 +20,7 @@ def show_random_images(image_dir, captions_path, count=10, ncols=3):
     
     for i in range(1, count+1):
         plt.subplot(nrows, ncols, i)
-        image_dirs = os.listdir(image_dir)
+        image_dirs = captions['image'].unique()
         random_image = random.choice(image_dirs)
         img = PIL.Image.open(f'{image_dir}/{random_image}')
         
