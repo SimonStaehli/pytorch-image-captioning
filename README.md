@@ -1,4 +1,4 @@
-# del_mc2_image_captioning
+# pytorch-image-captioning
 Deep Learning Mini-Challenge 2 - Image Captioning
 
 ## Vorgehen
