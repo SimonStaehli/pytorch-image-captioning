@@ -1,6 +1,8 @@
 # pytorch-image-captioning
 Deep Learning Mini-Challenge 2 - Image Captioning
 
+Kaggle-Notebook (only used for training): https://www.kaggle.com/simonstaehli/image-captioniong-flickr8k-pytorch
+
 ## Vorgehen
 
 1. Zuerst müssen die trainierten Modelle heruntergeladen werden.
